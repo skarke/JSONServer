@@ -1,5 +1,5 @@
-[{
-  "server": 
+{
+  "server": [
     { 
       "id": 1,
       "status": "down" 
@@ -8,4 +8,5 @@
       "id": 2, 
       "status": "up" 
 }
-}]
+    ]
+}
